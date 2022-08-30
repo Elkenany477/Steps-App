@@ -1,5 +1,7 @@
 import * as React from 'react';
-import {StyleSheet, View, ImageBackground, Image} from 'react-native';
+import { StyleSheet, View, ImageBackground, Image } from 'react-native';
+
+
 
 const Splash_Screen = () => {
   return (
@@ -33,3 +35,4 @@ const styles = StyleSheet.create({
 });
 
 export default Splash_Screen;
+
