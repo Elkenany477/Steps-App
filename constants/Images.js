@@ -2,29 +2,29 @@
  * Define or change the images
  */
 
-const home = require('Assets/images/home.png');
-const profile = require('Assets/images/profile.png');
-const avatar1 = require('Assets/images/avatar1.png');
-const avatar2 = require('Assets/images/avatar2.png');
-const avatar3 = require('Assets/images/avatar3.png');
-const avatar4 = require('Assets/images/avatar4.png');
-const cashback_offer = require('Assets/images/cashback_offer.png');
-const close = require('Assets/images/close.png');
-const color_bar = require('Assets/images/color_bar.png');
-const electricity_bill = require('Assets/images/electricity_bill.png');
-const filter = require('Assets/images/filter.png');
-const flight_tickets = require('Assets/images/flight_tickets.png');
-const logo = require('Assets/images/logo.png');
-const logout = require('Assets/images/logout.png');
-const mobile_prepaid = require('Assets/images/mobile_prepaid.png');
-const movie_tickets = require('Assets/images/movie_tickets.png');
-const plus = require('Assets/images/plus.png');
-const receive_money = require('Assets/images/receive_money.png');
-const right_arrow = require('Assets/images/right_arrow.png');
-const scan = require('Assets/images/scan.png');
-const send_money = require('Assets/images/send_money.png');
-const union = require('Assets/images/union.png');
-const cloud = require('Assets/images/cloud.png');
+const home = require('../images/home.png');
+const profile = require('../images/profile.png');
+const avatar1 = require('../images/avatar1.png');
+const avatar2 = require('../images/avatar2.png');
+const avatar3 = require('../images/avatar3.png');
+const avatar4 = require('../images/avatar4.png');
+const cashback_offer = require('../images/cashback_offer.png');
+const close = require('../images/close.png');
+const color_bar = require('../images/color_bar.png');
+const electricity_bill = require('../images/electricity_bill.png');
+const filter = require('../images/filter.png');
+const flight_tickets = require('../images/flight_tickets.png');
+const logo = require('../images/logo.png');
+const logout = require('../images/logout.png');
+const mobile_prepaid = require('../images/mobile_prepaid.png');
+const movie_tickets = require('images/movie_tickets.png');
+const plus = require('../images/plus.png');
+const receive_money = require('../images/receive_money.png');
+const right_arrow = require('../images/right_arrow.png');
+const scan = require('../images/scan.png');
+const send_money = require('../images/send_money.png');
+const union = require('../images/union.png');
+const cloud = require('../images/cloud.png');
 
 /**
  * export the images object

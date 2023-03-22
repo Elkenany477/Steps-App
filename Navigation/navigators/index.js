@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { useThemeContext, lightTheme, darkTheme } from 'Themes';
+import { useThemeContext, lightTheme, darkTheme } from '../../Themes';
 import Stacks from './../../Navigation/navigators/Stacks';
 
 export default function AppNavigator() {

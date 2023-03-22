@@ -78,3 +78,8 @@ export const Services = [
 const dummyData = { SendMoneyRecords, Services };
 
 export default dummyData;
+
+
+
+/*MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. 
+This chapter will provide an overview of MomentJS and discusses its features in detail.*/

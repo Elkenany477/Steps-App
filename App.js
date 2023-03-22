@@ -1,10 +1,71 @@
 import * as React from 'react';
-import { StyleSheet, View } from 'react-native';
-import Splash_Screen from './src/Steps_App/splash_step';
-import Login_Screen from './src/Steps_App/Login_step'
+import { StyleSheet, View, Text } from 'react-native';
+
+
 
 
 const App = () => {
+  return (
+    <View style={styles.container}>
+      <Text style={styles.HandeText}> Come Back to Realse my frist App</Text>
+    </View>
+
+  )
+}
+
+
+export default App;
+
+
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "#FFF",
+    justifyContent: "center",
+    alignItems: "center"
+  },
+  HandeText: {
+    fontSize: 25,
+    color: "#000",
+    textAlign: "center"
+  }
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{/*const App = () => {
 
   const [visable, setvisable] = React.useState(true)
 
@@ -37,3 +98,4 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+*/}

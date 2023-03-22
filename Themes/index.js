@@ -17,6 +17,9 @@ const ThemeContext = createContext({
     setMode: (mode) => console.log(mode),
 });
 
+//Accepts a context object (the value returned from React.createContext) and returns the current context value, 
+//as given by the nearest context provider for the given context.
+
 const useThemeContext = () => React.useContext(ThemeContext);
 
 const ManageThemeProvider = ({ children }) => {
